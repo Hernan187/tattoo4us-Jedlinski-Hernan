@@ -1,0 +1,34 @@
+body{
+    background-image: url(/images/fondo.jpg);
+}
+
+/* Estilos Navbar */ 
+ 
+.navbar-brand {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ 
+/* Estilos texto y video */ 
+
+section p {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+}
+
+div p {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+}
